@@ -14,9 +14,7 @@ To run, type:
     python3 manage.py runserver
 
 # Directory Structure
-.
 
-└── pdf_extraction
 
     ├── db.sqlite3
     ├── extraction
