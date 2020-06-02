@@ -8,7 +8,7 @@ from PIL import Image
 from pdf2image import convert_from_path
 
 #    path to media files
-PATH_TO_MEDIA = '/home/oem/rest-api/pdf_extraction/media/'
+PATH_TO_MEDIA = './media/'
 
 #    input and output file names
 input_pdf = "Spectro_Report.pdf"
