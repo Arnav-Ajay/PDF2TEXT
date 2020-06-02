@@ -22,6 +22,7 @@ To run, type:
     │   ├── apps.py
     │   ├── helper.py                helper file with basic functions
     │   ├── __init__.py
+    
     │   ├── migrations
     │   │   ├── __init__.py
     │   │   └── __pycache__
