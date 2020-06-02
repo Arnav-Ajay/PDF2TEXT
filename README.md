@@ -17,6 +17,7 @@ To run, type:
 .
 
 └── pdf_extraction
+
     ├── db.sqlite3
     ├── extraction
     │   ├── admin.py
